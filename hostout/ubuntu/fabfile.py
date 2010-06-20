@@ -41,6 +41,7 @@ def bootstrap():
 #             'python-celementtree '
              'ncurses-dev '
              'libreadline5-dev '
+             'subversion '
              % locals())
     # python-profiler?
     
