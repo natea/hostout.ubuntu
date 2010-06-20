@@ -42,6 +42,9 @@ def bootstrap():
              'ncurses-dev '
              'libreadline5-dev '
              'subversion '
+# needed for Apache2
+             'zlib1g-dev ' 
+             'libssl-dev '
              % locals())
     # python-profiler?
     
